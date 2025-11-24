@@ -20,6 +20,9 @@ Hardware
 
 
 Software
+
   o Aplicação instalada no dispositivo para enviar dados de telemetria para o Azure Hub IoT
+  
   o Aplicação desktop para consumir os dados de telemetria que são enviados para o hub
+  
   o Aplicação desktop para controlar de forma remota (através do hub) o dispositivo
