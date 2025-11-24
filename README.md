@@ -2,12 +2,19 @@
 O objetivo deste projeto é a implementação e desenvolvimento de um conjunto de aplicações em Java que efetuam a comunicação com um hub Azure IoT. (Raspberry Pi,Java,Azure IOT)
 
 Hardware 
+
 • Raspberry PI
+
 • Sensor
+
 • LED
+
 • Resistências 330 ohm
+
 • Breadboard
+
 • Fios Dupont fêmea-macho
+
 • Fios “Jumper”
 
 
